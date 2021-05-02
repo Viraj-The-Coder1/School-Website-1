@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#imgprincipal {
+    border-radius: 90px;
+}
+
+#marqueeStyle {
+    color: cyan;
+}
+
+#schoolimg {
+    width: 90%;
+    height: 600px;
+}
